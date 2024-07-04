@@ -32,4 +32,4 @@ This WordPress plugin dynamically adjusts an artwork fee on the WooCommerce chec
 3. The artwork fee will be added to the cart total based on your selection.
 
 
-#PS: Can Adjust commented code adds a custom admin page in WordPress to manage the settings for adding a custom fee to the WooCommerce checkout. 
+# PS: Can Adjust commented code adds a custom admin page in WordPress to manage the settings for adding a custom fee to the WooCommerce checkout. 
